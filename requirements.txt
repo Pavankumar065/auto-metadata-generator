@@ -1,0 +1,5 @@
+pip install llama-index-llms-openai
+pip install llama-index-extractors-entity
+pip install llama-index
+pip install llama-index-llms-ollama
+pip install streamlit
