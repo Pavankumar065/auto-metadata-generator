@@ -129,6 +129,7 @@ streamlit run streamlit_app.py
 
 You can access the Automated Metadata Generator either by running it locally on your machine or by visiting its publicly deployed version.
 
+**Using the Local Application:**
 
 After opening the URL in your browser:
 
@@ -140,6 +141,19 @@ After opening the URL in your browser:
     * To restart the extraction for the same or a new file, you can often click a **"Rerun"** button (also usually at the top right, under the "Deploy" dropdown).
 5.  **Adjust Layout:** To change the display size, click the "Settings" icon (often a gear or three dots) usually located at the top right. From there, you can enable **"Wide mode"** to make the app occupy the entire screen width.
 6.  **Change Theme:** Within the "Settings" menu, you'll find options to "Choose app theme". You can select **"Light"**, **"Dark"**, or **"Use system setting"**. Additionally, you can **"Edit active theme"** to customize colors (Primary, Background, Text, Secondary Background) and Font Family.
+
+### 2. Deployed Application Link:
+
+If the project is deployed to a cloud platform (like Streamlit Cloud or Hugging Face Spaces), you can access it directly via its public URL. The usage steps will be identical to the "Local Access" section above.
+
+👉 **[YOUR_DEPLOYED_WEBSITE_URL_HERE]** 👈
+
+**Demo Video:**
+
+For a visual demonstration of the project's features and functionality, watch the demo video on YouTube:
+
+▶️ **[https://youtu.be/lZhl7Jj_yG0?si=lccvlrqGTviTJfwr](https://youtu.be/lZhl7Jj_wY0?si=lccvlrqGTviTJfwr)** (Please replace `YOUR_DEPLOYED_WEBSITE_URL_HERE` with the actual URL after deployment.)
+ 
 
 
 
