@@ -151,6 +151,6 @@ If the project is deployed to a cloud platform (like Streamlit Cloud or Hugging 
 
 For a visual demonstration of the project's features and functionality, watch the demo video on YouTube:
 
-▶️ **[https://youtu.be/lZhl7Jj_yG0?si=lccvlrqGTviTJfwr](https://youtu.be/lZhl7Jj_wY0?si=lccvlrqGTviTJfwr)** 
+▶️ **https://youtu.be/lZhl7Jj_yG0?si=cjFVacUaVZPjHoUl** 
 
 
