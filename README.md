@@ -142,9 +142,6 @@ After opening the URL in your browser:
 5.  **Adjust Layout:** To change the display size, click the "Settings" icon (often a gear or three dots) usually located at the top right. From there, you can enable **"Wide mode"** to make the app occupy the entire screen width.
 6.  **Change Theme:** Within the "Settings" menu, you'll find options to "Choose app theme". You can select **"Light"**, **"Dark"**, or **"Use system setting"**. Additionally, you can **"Edit active theme"** to customize colors (Primary, Background, Text, Secondary Background) and Font Family.
 
-### 2. Deployed Application Link:
-
-If the project is deployed to a cloud platform (like Streamlit Cloud or Hugging Face Spaces), you can access it directly via its public URL. The usage steps will be identical to the "Local Access" section above.
 
 
 ##**Demo Video:**
