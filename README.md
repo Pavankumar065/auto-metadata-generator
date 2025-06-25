@@ -146,15 +146,11 @@ After opening the URL in your browser:
 
 If the project is deployed to a cloud platform (like Streamlit Cloud or Hugging Face Spaces), you can access it directly via its public URL. The usage steps will be identical to the "Local Access" section above.
 
-👉 **[YOUR_DEPLOYED_WEBSITE_URL_HERE]** 👈
 
-**Demo Video:**
+##**Demo Video:**
 
 For a visual demonstration of the project's features and functionality, watch the demo video on YouTube:
 
-▶️ **[https://youtu.be/lZhl7Jj_yG0?si=lccvlrqGTviTJfwr](https://youtu.be/lZhl7Jj_wY0?si=lccvlrqGTviTJfwr)** (Please replace `YOUR_DEPLOYED_WEBSITE_URL_HERE` with the actual URL after deployment.)
- 
-
-
+▶️ **[https://youtu.be/lZhl7Jj_yG0?si=lccvlrqGTviTJfwr](https://youtu.be/lZhl7Jj_wY0?si=lccvlrqGTviTJfwr)** 
 
 
